@@ -1,7 +1,10 @@
 ---
 title: "Using Randomization & Stratification to Overcome A Common Cause Confounder"
 format:
-  html: default
+  html:
+    grid:
+      body-width: 1200px
+      margin-width: 280px
 bibliography: references.bib
 execute:
   echo: true
